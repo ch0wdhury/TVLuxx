@@ -1,0 +1,56 @@
+html, body {
+	overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: rgb(0,0,0);
+	background: linear-gradient(180deg, rgba(0,0,0,0.8043417195979954) 0%, rgba(253,226,45,0.8295518036316089) 98%);
+	background-repeat: no-repeat;
+	min-height: 500px;
+}
+
+/* Header Section Starts */
+header {
+	background-color: #343A40;
+}
+.navbar-brand {
+	width: 25%;
+}
+/* Header Section Endss */
+/* About Us Section Starts */
+.about_content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.about_content h1 {
+	font-weight: bold;
+	color: #fff;
+}
+.about_content p {
+	color: #fff;
+	font-size: 20px;
+	margin: 0 auto;
+}
+.about_content hr {
+	width: 50px;
+	margin: 20px 0;
+	border: 3px solid #fde22d;
+}
+/* About Us Section Ends */
+/* Footer Section Starts */
+footer {
+	background-color: #343A40;
+}
+.footer_content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.footer_content p {
+	color: #fff;
+	font-size: 16px;
+	padding-top: 10px;
+}
+/* Footer Section Endss */
